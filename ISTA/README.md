@@ -1,5 +1,17 @@
 # ISTA
 
+### project management
+
+git : https://youtu.be/SWYqp7iY_Tc
+
+### track errors
+
+stackoverflow: https://stackoverflow.com/
+
+### projects/time organisation
+
+trello: https://trello.com/
+
 ## Important stuff
 
 uml: https://youtube.com/playlist?list=PL1Ja02KX5ttNJFgafflcj9AnxfweXBS9g
